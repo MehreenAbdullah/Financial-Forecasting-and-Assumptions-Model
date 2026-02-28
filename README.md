@@ -14,12 +14,12 @@ The objective of this model is to translate clearly defined operating and financ
 
 ## Structure
 ---
-• Assumed Historical Data – Built a structured historical base to extract stable ratios and operating relationships for forecasting.
-• Assumptions Framework – Centralized key drivers such as growth rate, margin ratios, working capital days, and capital turnover to control projections.
-• Income Statement Projection – Revenue forecast using assumed growth, with historical ratios reapplied to maintain cost and profitability structure.
-• Balance Sheet Projection – Assets and liabilities scaled using efficiency ratios and working capital metrics linked directly to revenue and COGS.
-• Cash Flow Statement – Indirect method derived from projected net income and balance sheet movements.
-• Validation Check – Ensured Assets = Liabilities + Equity across all forecast periods.
+* Assumed Historical Data – Built a structured historical base to extract stable ratios and operating relationships for forecasting.
+*  Assumptions Framework – Centralized key drivers such as growth rate, margin ratios, working capital days, and capital turnover to control projections.
+*  Income Statement Projection – Revenue forecast using assumed growth, with historical ratios reapplied to maintain cost and profitability structure.
+*  Balance Sheet Projection – Assets and liabilities scaled using efficiency ratios and working capital metrics linked directly to revenue and COGS.
+*  Cash Flow Statement – Indirect method derived from projected net income and balance sheet movements.
+*  alidation Check – Ensured Assets = Liabilities + Equity across all forecast periods.
 
 
 
