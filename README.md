@@ -30,42 +30,34 @@ The model applies a ratio-driven forecasting approach derived from a historical 
 * Gross Profit Margin
 Gross Profit Margin = Gross Profit / Sales Revenue
 Reason: Determines profitability efficiency relative to revenue.
-
 * SG&A Ratio
 SG&A Ratio = SG&A Expense / Sales Revenue
 Reason: Captures operating cost intensity relative to scale.
-
 * Depreciation Ratio
 Depreciation Ratio = Depreciation / Sales Revenue
 Reason: Measures asset consumption relative to revenue base.
-
 * Interest Ratio
 Interest Ratio = Interest Expense / Long-Term Liabilities
 Reason: Reflects cost of debt structure.
-
 * Tax Ratio
 Tax Ratio = Tax / Profit Before Tax
 Reason: Identifies effective tax burden.
 
 Working Capital & Efficiency Ratios
-
 * Capital Turnover Ratio
 Capital Turnover = Sales Revenue / PPE (or Operating Assets)
 Reason: Measures asset utilization efficiency.
-
 * Receivables Days
 Receivables Days = (Accounts Receivable / Sales Revenue) × 365
 Reason: Converts revenue relationship into collection cycle.
-
 * Inventory Days
 Inventory Days = (Inventory / Cost of Sales) × 365
 Reason: Measures inventory holding period relative to COGS.
-
 * Payables Days
 Payables Days = (Accounts Payable / Cost of Sales) × 365
 Reason: Measures supplier credit cycle.
 
-Forecasting Application
+## Forecasting Application
 
 Safe assumption values were selected using:
 
